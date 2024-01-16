@@ -2,7 +2,7 @@
 
 Scrapper to get easily sprites animated from WikiDex.
 
-If you are using [Junidex](https://github.com/JuniorZavaleta/junidex) put images downloaded in `/static/img`
+If you are using [Junidex](https://github.com/shuni95/junidex) put images downloaded in `/static/img`
 
 Probably i'll add some scripts more to get other sprites. It depends on Junidex project...
 
